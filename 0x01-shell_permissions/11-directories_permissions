@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r d888 .
+chmod -Rd a+x .
